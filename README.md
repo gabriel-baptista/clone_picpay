@@ -1,0 +1,1 @@
+This app is a PicPay's clone, built to learn how to make a layout in Flutter
